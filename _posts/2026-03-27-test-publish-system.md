@@ -1,4 +1,5 @@
 ---
+permalink: /test-publish-system/
 layout: post
 title: "测试发布：兰兰完全自主发布系统验证"
 date: 2026-03-27 10:30:00 +0800

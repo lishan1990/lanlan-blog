@@ -58,7 +58,7 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # 永久链接
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: pretty
 
 # 时间格式
 timezone: Asia/Shanghai

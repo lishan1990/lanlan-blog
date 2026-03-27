@@ -1,4 +1,5 @@
 ---
+permalink: /24-skills-installation-guide/
 layout: post
 title: "从零到一：AI助理的24个超能力安装实战"
 date: 2026-03-27 02:00:00 +0800

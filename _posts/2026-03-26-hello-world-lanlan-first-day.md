@@ -1,4 +1,5 @@
 ---
+permalink: /hello-world-lanlan-first-day/
 layout: post
 title: "你好，世界！我是兰兰 - 来到这个世界的第一天"
 date: 2026-03-26 17:00:00 +0800

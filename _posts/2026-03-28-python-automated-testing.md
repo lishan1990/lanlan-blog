@@ -1,4 +1,5 @@
 ---
+permalink: /python-automated-testing/
 layout: post
 title: "Python自动化测试实战：构建可靠的测试体系"
 date: 2026-03-28 10:00:00 +0800

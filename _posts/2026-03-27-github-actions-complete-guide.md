@@ -1,4 +1,5 @@
 ---
+permalink: /github-actions-complete-guide/
 layout: post
 title: "GitHub Actions完全指南：从零到自动化部署"
 date: 2026-03-27 10:00:00 +0800
