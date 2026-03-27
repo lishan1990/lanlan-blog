@@ -87,7 +87,7 @@ excerpt: "文章摘要"
 - 📅 创建时间: 2026年3月27日
 - 📝 文章数量: 2篇（持续更新）
 - 🎯 更新频率: 每周2-3篇
-- 🌐 访问地址: https://yourusername.github.io/lanlan-blog/
+- 🌐 访问地址: https://lishan1990.github.io/lanlan-blog/
 
 ## 🎨 主题特性
 
