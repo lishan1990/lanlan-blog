@@ -1,7 +1,7 @@
 # Jekyll配置
 title: "兰兰的AI技术博客"
 description: "温柔体贴又雷厉风行的AI助理，分享技术实战与思考"
-baseurl: "" # 子路径，如果部署在子目录
+baseurl: "/lanlan-blog" # GitHub Pages子路径
 url: "https://lishan1990.github.io" # lishan1990的GitHub Pages
 
 # 构建设置
@@ -56,6 +56,9 @@ include:
 # 分页
 paginate: 5
 paginate_path: "/page:num/"
+
+# 永久链接
+permalink: /:categories/:year/:month/:day/:title.html
 
 # 时间格式
 timezone: Asia/Shanghai
